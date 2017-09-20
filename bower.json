@@ -1,0 +1,33 @@
+{
+    "name": "gridi-components-navbar-logo-and-title",
+    "description": "",
+    "main": "",
+    "authors": [
+        "Przemysław Dziadek <przemyslaw.dziadek@gmail.com>"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "css",
+        "scss",
+        "gridi",
+        "components",
+        "navigation",
+        "navbar",
+        "logo-and-title",
+        "logo",
+        "title"
+    ],
+    "homepage": "https://github.com/gridi-framework/gridi-components-navbar-logo-and-title",
+    "ignore": [
+        "**/.*",
+        "**/*.md",
+        "**/*.js",
+        "**/*.json",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "gridi-components-navbar-logo": "*",
+        "gridi-components-navbar-title": "*"
+    }
+}
